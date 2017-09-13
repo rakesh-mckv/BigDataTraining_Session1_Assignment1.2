@@ -1,0 +1,2 @@
+# BigDataTraining_Session1_Assignment1.2
+It contains solutions for assignments on BigDataTraining_Session1_Assignment1.2
